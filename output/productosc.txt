@@ -1,0 +1,40 @@
+Guitarra
+1001
+3000
+Gibson
+7
+A
+0
+
+Computadora Dell
+12001
+5000
+Dell
+8
+A
+0
+
+Computadora Lenovo
+12003
+4500
+Lenovo
+4
+A
+0
+
+Fotocopiadora Canon
+22001
+630
+Canon
+8
+A
+7
+
+AAAAABBB
+11223
+99999
+EEEEE
+12
+A
+0
+
